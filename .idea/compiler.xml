@@ -6,7 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="config-service" />
         <module name="apigateway-service" />
         <module name="first-service" />
         <module name="service-discovery" />
@@ -15,6 +14,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="catalog-service" target="1.8" />
+      <module name="config-service" target="1.8" />
       <module name="order-service" target="1.8" />
       <module name="user-service" target="1.8" />
     </bytecodeTargetLevel>
