@@ -18,11 +18,6 @@
         <module>first-service</module>
         <module>second-service</module>
         <module>service-discovery</module>
-        <module>config-service</module>
-        <module>apigateway-service</module>
-        <module>user-service</module>
-        <module>order-service</module>
-        <module>catalog-service</module>
     </modules>
 
     <properties>
